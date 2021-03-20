@@ -1,4 +1,4 @@
-# Online IDE for any languages
+# Online IDE for programming languages
 API based web application IDE using ReactJS
 
 ## Library & Packages:
